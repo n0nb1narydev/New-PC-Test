@@ -6,7 +6,7 @@ namespace Treehouse.MediaLibrary
     {
         static void Main()
         {
-            
+            var book = new Books("The Way of Kings", "Brandon Sanderson");
         }
     }
 }
